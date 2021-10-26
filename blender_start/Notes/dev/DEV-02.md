@@ -39,6 +39,8 @@
 + type number pad 0 to see in the camera's perspective
 + type number pad 7 for top down along positive Z
 + type number pad 3 for top down along positive Y
++ type number pad . to have object neatly in frame
 
 ## Rendering
 + F12 to render
+
