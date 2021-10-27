@@ -1,4 +1,4 @@
-# DEV-30, Beverl Vertex
+# DEV-30, Bevel Vertex
 #### Tags: [Bevel]
 
     Using it twice
