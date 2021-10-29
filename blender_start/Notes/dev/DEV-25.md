@@ -1,5 +1,5 @@
 # DEV-25, Introduction to Bezier Curves
-#### Tags: [Curves]
+#### Tags: [Curves, Draw]
 
 ![](../images/DEV-25-A.png)
 
