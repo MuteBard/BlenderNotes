@@ -81,3 +81,11 @@
     After alot of extruding, scaling to a 3d cursor, subdividing, creating edges and facces we got this far
 
 ![](../images/FUN-01-AH.png)
+
+![](../images/FUN-01-AI.png)
+
+![](../images/FUN-01-AJ.png)
+
+![](../images/FUN-01-AK.png)
+
+![](../images/FUN-01-AM.png)
