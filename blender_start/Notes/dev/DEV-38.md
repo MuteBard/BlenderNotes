@@ -38,3 +38,18 @@
 ![](../images/DEV-38-L.png)
 
 ![](../images/DEV-38-M.png)
+
+## Making the Bishop
+
+    Version 1
+
+![](../images/DEV-38-N.png)
+
+![](../images/DEV-38-O.png)
+
+
+    Version 2
+
+![](../images/DEV-38-P.png)
+
+![](../images/DEV-38-Q.png)
