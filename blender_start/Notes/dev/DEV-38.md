@@ -53,3 +53,5 @@
 ![](../images/DEV-38-P.png)
 
 ![](../images/DEV-38-Q.png)
+
+![](../images/DEV-38-R.png)
