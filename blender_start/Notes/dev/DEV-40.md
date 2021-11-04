@@ -1,9 +1,9 @@
 # DEV-40, Boolean Modifier
-#### Tags: [Boolean Modifier, water tight]
+#### Tags: [Boolean Modifier, water tight, subtracting]
 
     We are gonna start out with the UV Spehere and a cube
 
-c
+![](../images/DEV-40-A.png)
 
     Also if you ever wanted to change how an object is displayed compared to others, this is how:
 
